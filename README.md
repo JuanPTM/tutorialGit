@@ -1,2 +1,4 @@
-# tutorialGit
-Tutorial of how to upload content to the Smart Open Lab git
+# GIT TUTORIAL 
+
+
+This repository has the .pdf explanation of how to upload content to the organization Smart Open Lab
